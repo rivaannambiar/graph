@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="readme-assets/banner.svg" alt="Graph Studio: graphs that move, links that share, editing that's live" width="100%">
+<img src="banner.svg" alt="Graph Studio: graphs that move, links that share, editing that's live" width="100%">
 
 <br>
 
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img src="readme-assets/studio.png" alt="The Graph Studio board: a bar graph post, the data table and live stats on a dark wallpaper" width="100%">
+  <img src="studio.png" alt="The Graph Studio board: a bar graph post, the data table and live stats on a dark wallpaper" width="100%">
 </p>
 
 ---
@@ -29,7 +29,7 @@
 Hit the pink **+**, add a row, type a value. The graph doesn't redraw, it *morphs*: bars stretch, lines bend and slices swing into place while you type. Paste a whole table from Excel or Google Sheets and the series names come along with it.
 
 <p align="center">
-  <img src="readme-assets/add-data.gif" alt="Clicking the + button, adding July and August, and the bars growing into place" width="100%">
+  <img src="add-data.gif" alt="Clicking the + button, adding July and August, and the bars growing into place" width="100%">
 </p>
 
 ## ✦ Make it yours
@@ -37,12 +37,12 @@ Hit the pink **+**, add a row, type a value. The graph doesn't redraw, it *morph
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="readme-assets/customize.gif" alt="The Customize panel sliding in: palettes, wallpapers and the bounce animation" width="100%">
+      <img src="customize.gif" alt="The Customize panel sliding in: palettes, wallpapers and the bounce animation" width="100%">
       <h4>Every colour is your call</h4>
       Pick a palette or recolour any single series, bar or slice. Set a wallpaper for the board and the shared page, then choose how it enters: rise, cascade, pop, bounce, draw or spin.
     </td>
     <td width="50%" valign="top">
-      <img src="readme-assets/accent.gif" alt="Switching the app's accent colour from pink to sky, lime, violet and coral" width="100%">
+      <img src="accent.gif" alt="Switching the app's accent colour from pink to sky, lime, violet and coral" width="100%">
       <h4>Even the accent colour</h4>
       Pink not your thing? Settings → Accent colour repaints every button, highlight and the tab icon, with a smooth fade. Light accents get dark text automatically, so it always stays readable.
     </td>
